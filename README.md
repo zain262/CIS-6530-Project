@@ -1,5 +1,6 @@
-Hafnium:
 
+
+Hafnium:
 SHA256: 33878eed4a50635735e6e368a50f69c13b22b6af58ae50a82c1af5c5f129fb7f
 Source: https://bazaar.abuse.ch/sample/33878eed4a50635735e6e368a50f69c13b22b6af58ae50a82c1af5c5f129fb7f/
 File Type: .aspx
@@ -552,7 +553,8 @@ Role: Malware sample of mobile order which is a trojan used to attack android de
 
 
 SHA256: add4550788b013a7c79fc6554f05fda8fba6145df9a6afd69659059f116a9d4b
-Source: https://bazaar.abuse.ch/sample/add4550788b013a7c79fc6554f05fda8fba6145df9a6afd69659059f116a9d4b/APT: Scarlet Mimic
+Source: https://bazaar.abuse.ch/sample/add4550788b013a7c79fc6554f05fda8fba6145df9a6afd69659059f116a9d4b/
+APT: Scarlet Mimic
 File Type: .exe
 Zip Password: infected
 Role: Malware sample of FakeM which is a shell based back door used by the group
@@ -769,7 +771,8 @@ https://www.proofpoint.com/us/threat-insight/post/apt-targets-financial-analysts
 Gold Southfield
 
 SHA256: 861e2544ddb9739d79b265aab1e327d11617bc9d9c94bc5b35282c33fcb419bc
-Source: https://bazaar.abuse.ch/sample/861e2544ddb9739d79b265aab1e327d11617bc9d9c94bc5b35282c33fcb419bc/ APT: Gold Southfield
+Source: https://bazaar.abuse.ch/sample/861e2544ddb9739d79b265aab1e327d11617bc9d9c94bc5b35282c33fcb419bc/ 
+APT: Gold Southfield
 File Type: .exe
 Zip Password: infected
 Role: Malware sample of Revil which is a ransomware connected to the group, this particular sample is from March 2022
@@ -936,3 +939,518 @@ APT: RTM
 File Type: .exe
 Zip Password: infected
 Role: Malware sample of RTM trojan used by the group this particular sample has the ability to black list processes delete itself edit and load DLL files.
+
+TA505
+SHA256 0a25ede48d6378ccf0c1153fdcceffeb53baaed9f46e783246432198748c5853
+Source : https://bazaar.abuse.ch/download/0a25ede48d6378ccf0c1153fdcceffeb53baaed9f46e783246432198748c5853/
+File Type: .xls
+APT: TA505
+Zip Password: infected 
+
+SHA256 17291fc45dc342a6ce4309dd4b77cd094c564fad14c212bca827770daf7207d4
+https://bazaar.abuse.ch/download/17291fc45dc342a6ce4309dd4b77cd094c564fad14c212bca827770daf7207d4/
+File Type: dll
+Zip Password: infected 
+
+SHA256 d98bdf3508763fe0df177ef696f5bf8de7ff7c7dc68bb04a14a95ec28528c3f9
+https://bazaar.abuse.ch/download/d98bdf3508763fe0df177ef696f5bf8de7ff7c7dc68bb04a14a95ec28528c3f9/
+
+File Type: .exe
+Zip Password: infected 
+
+Role: Many of the campaigns, especially the large volume ones, strongly resemble the historic TA505 activity from 2019 and 2020. The commonalities include similar domain naming conventions, email lures, Excel file lures, and the delivery of the FlawedGrace remote access trojan (RAT).
+
+
+
+
+
+
+
+
+APT-C-36 
+
+SHA256 85641c8fb94e8e4c5202152dcbb2bb26646529290d984988ecb72e18d63c9bc5
+https://bazaar.abuse.ch/download/85641c8fb94e8e4c5202152dcbb2bb26646529290d984988ecb72e18d63c9bc5/
+File Type: .exe
+APT: APT-C-36
+Zip Password: infected 
+Role: Attacks carried out by Blind Eagle actors typically start with a phishing email and the group have been observed utilizing various Remote Access Trojans (RAT) variants, which often have in-built methods for hiding command-and-control (C2) traffic from detection 
+
+SHA256 686012c04728b36ddffe4b7ad6b00e8c75d5aa8f9af197b9b5cfe3f1fb20cb29
+https://bazaar.abuse.ch/download/686012c04728b36ddffe4b7ad6b00e8c75d5aa8f9af197b9b5cfe3f1fb20cb29/
+File Type: .zip
+APT: APT-C-36
+Zip Password: infected 
+
+SHA256 ae0c66a4de4da2105c21a0a6c1f11be08ada6f9a78c6daa2589092a63c3956a1
+https://bazaar.abuse.ch/download/ae0c66a4de4da2105c21a0a6c1f11be08ada6f9a78c6daa2589092a63c3956a1/
+
+
+File Type: .ps1
+APT: APT-C-36
+Zip Password: infected 
+
+
+
+
+Evilnum 
+
+SHA256 fd78f398e7cc8ced62deba213e0218d780357bcf89e01b748f8ed1e252ac3b21
+https://bazaar.abuse.ch/download/fd78f398e7cc8ced62deba213e0218d780357bcf89e01b748f8ed1e252ac3b21/
+File Type: Ink
+APT:Evilnum
+Role: Evilnum's primary goal is to spy on its targets and steal financial data from businesses and their customers. Its attackers have previously stolen spreadsheets and documents with customer lists, investments, and trading operations; internal presentations; software licenses and credentials for trading software and platforms; browser cookies and session data; email credentials; credit card information; and proof of address and identity documents. The group has also obtained access to VPN configurations and other IT-related information
+Zip Password: infected 
+
+SHA256 29d75b3b0f509dfd3150edc06be9cbe4053ce41a892403ec94b9187f44dda643
+https://bazaar.abuse.ch/download/29d75b3b0f509dfd3150edc06be9cbe4053ce41a892403ec94b9187f44dda643/
+File Type: .rar
+APT:Evilnum
+Zip Password: infected 
+
+SHA256 74329f3585df9b4ac4a0bc4476369dc08975201d7fc326d2b0f7b7a4c1eab22b
+https://bazaar.abuse.ch/download/74329f3585df9b4ac4a0bc4476369dc08975201d7fc326d2b0f7b7a4c1eab22b/
+File Type: dll
+APT:Evilnum
+Zip Password: infected 
+
+
+
+
+FIN6
+
+SHA256 ad24f84494145758b811cb422fe417aa08a55a4a81bf82918487bda3dc6e431d
+https://bazaar.abuse.ch/download/ad24f84494145758b811cb422fe417aa08a55a4a81bf82918487bda3dc6e431d/
+
+File Type: InK
+APT:TA4557
+Role: FIN is a group targeting financial assets including assets able to do financial transaction including PoS.
+Zip Password: infected 
+SHA256 7ce58900fc2d2a5378e9c1952a64f7d48b8592b6efb7bd4efeea9c42563d3b9b
+https://bazaar.abuse.ch/download/7ce58900fc2d2a5378e9c1952a64f7d48b8592b6efb7bd4efeea9c42563d3b9b/
+Zip Password: infected 
+File Type: InK
+APT:TA4557
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIN8
+SHA256 5b8b732d0bb708aa51ac7f8a4ff5ca5ea99a84112b8b22d13674da7a8ca18c28
+https://bazaar.abuse.ch/download/5b8b732d0bb708aa51ac7f8a4ff5ca5ea99a84112b8b22d13674da7a8ca18c28/
+FileType: .exe
+APT:FIN8
+Role: FIN8 has used a Batch file to automate frequently executed post compromise cleanup activities. FIN8 has also executed commands remotely via cmd.exe. 
+Zip Password: infected 
+
+SHA256 32863daa615afbb3e90e3dad35ad47199050333a2aaed57e5065131344206fe1
+https://bazaar.abuse.ch/download/32863daa615afbb3e90e3dad35ad47199050333a2aaed57e5065131344206fe1/
+FileType: .exe
+APT:FIN8
+Role: FIN8 has used a Batch file to automate frequently executed post compromise cleanup activities. FIN8 has also executed commands remotely via cmd.exe. 
+Zip Password: infected 
+
+
+SHA256 e058280f4b15c1be6488049e0bdba555f1baf42e139b7251d6b2c230e28e0aef
+https://bazaar.abuse.ch/download/e058280f4b15c1be6488049e0bdba555f1baf42e139b7251d6b2c230e28e0aef/
+FileType: .dll
+APT:FIN8
+Role: FIN8 has used a Batch file to automate frequently executed post compromise cleanup activities. FIN8 has also executed commands remotely via cmd.exe. 
+Zip Password: infected 
+
+
+
+
+
+APT39
+SHA256 b8e246f58d9094e7f4545bd608f143956de3b27960a1496e3753cdd6676c681b
+https://bazaar.abuse.ch/download/b8e246f58d9094e7f4545bd608f143956de3b27960a1496e3753cdd6676c681b/
+File type : exe
+Role : Adversaries may use utilities to compress and/or encrypt collected data prior to exfiltration.
+Zip Password: infected 
+SHA256 f3b0ad96c8529399bd7117bd67cdf0297191476d3a81a60b147960306ae5f068
+https://bazaar.abuse.ch/download/f3b0ad96c8529399bd7117bd67cdf0297191476d3a81a60b147960306ae5f068/
+Zip Password: infected 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MuddyWater 
+
+ SHA256 5f22f4c4fdb36c4f0ea3248abb00521e39008c1fb4c97e1b4a9c7b9ef0b691c2
+https://bazaar.abuse.ch/download/5f22f4c4fdb36c4f0ea3248abb00521e39008c1fb4c97e1b4a9c7b9ef0b691c2/
+File type : .exe
+This malware serves the group's goals of cyber espionage, intellectual property theft, and ransomware deployment by providing backdoor access and executing commands on compromised networks. The .exe files are the execution components of the group's various tools, including their custom MuddyRot backdoor
+Zip Password: infected 
+
+SHA256 a4913f52bd90add74b796852e2a1d9acb1d6ecffe359b5710c59c82af59483ec
+https://bazaar.abuse.ch/download/a4913f52bd90add74b796852e2a1d9acb1d6ecffe359b5710c59c82af59483ec/
+File type : .apk
+Zip Password: infected 
+
+SHA256 40dead1e1d83107698ff96bce9ea52236803b15b63fb0002e0b55af71a9b5e05
+https://bazaar.abuse.ch/download/40dead1e1d83107698ff96bce9ea52236803b15b63fb0002e0b55af71a9b5e05/
+File type : .apk
+Zip Password: infected 
+
+
+
+
+
+
+
+
+Magic hound
+SHA256 07384ab4488ea795affc923851e00ebc2ead3f01b57be6bf8358d7659e9ee407
+https://bazaar.abuse.ch/download/07384ab4488ea795affc923851e00ebc2ead3f01b57be6bf8358d7659e9ee407/
+File type: vbs
+Role: Magic Hound malware has used VBS scripts for execution
+Zip Password: infected 
+
+SHA256 b56bec298db79a23926d2c22bf9afbb1819be6491488b502fe3e62dfff403325
+https://bazaar.abuse.ch/download/b56bec298db79a23926d2c22bf9afbb1819be6491488b502fe3e62dfff403325/
+ATP: metasploit
+File type: .exe
+Zip Password: infected 
+
+SHA256 fa72ce2ca8b2c02af5ed2b6c6b7d5ebef09db6853681dd0681e42886fde0a8a5
+https://bazaar.abuse.ch/download/fa72ce2ca8b2c02af5ed2b6c6b7d5ebef09db6853681dd0681e42886fde0a8a5/
+File type: .exe
+Zip Password: infected 
+
+
+
+
+
+
+
+
+
+Windigo
+SHA256 2c43ae80346b93cc2d11e1815629277631cc208b9bf91c5737333b76a51142c0
+https://bazaar.abuse.ch/download/2c43ae80346b93cc2d11e1815629277631cc208b9bf91c5737333b76a51142c0/
+File type:elf
+Role : The Windigo group has been operating since at least 2011, compromising thousands of Linux and Unix servers using the Ebury SSH backdoor to create a spam botnet. 
+Zip Password: infected 
+
+SHA256 8acf386f61a34527ab7dde80ca9abbdc9c14d72537a7364484a4b32030ba93cd
+https://bazaar.abuse.ch/download/8acf386f61a34527ab7dde80ca9abbdc9c14d72537a7364484a4b32030ba93cd/
+File type:elf
+Role : The Windigo group has been operating since at least 2011, compromising thousands of Linux and Unix servers using the Ebury SSH backdoor to create a spam botnet. 
+Zip Password: infected 
+
+
+
+SHA256 3d51fc45274380d14eed671d4127ad216525e92d7d658c0bec3b01d584fd6d2e
+https://bazaar.abuse.ch/download/3d51fc45274380d14eed671d4127ad216525e92d7d658c0bec3b01d584fd6d2e/
+
+File type:elf
+Role : The Windigo group has been operating since at least 2011, compromising thousands of Linux and Unix servers using the Ebury SSH backdoor to create a spam botnet. 
+Zip Password: infected 
+
+
+
+
+Wizard Spider
+SHA256 a610ef0e37af408aa49c7296d238796c57ac45aa8b0809ce72bc4d75b23fdf4f
+https://bazaar.abuse.ch/download/a610ef0e37af408aa49c7296d238796c57ac45aa8b0809ce72bc4d75b23fdf4f/
+File Type :vbs
+APT: TricBot
+
+Role Wizard Spider is a Russia-based financially motivated threat group originally known for the creation and deployment of TrickBot since at least 2016.
+
+Zip Password: infected 
+
+SHA256 487f4dd9bdbe94a9cf1a04a8fdec19f16f86864d05d06f0511544b3ff68c850c
+https://bazaar.abuse.ch/download/487f4dd9bdbe94a9cf1a04a8fdec19f16f86864d05d06f0511544b3ff68c850c/
+
+File Type :zip
+APT: TricBot
+Role : Wizard Spider is a Russia-based financially motivated threat group originally known for the creation and deployment of TrickBot since at least 2016.
+Zip Password: infected 
+
+SHA256 818a48e399389a23fc73994dc4331314374a7097fe831b4ee617b9315487d804
+https://bazaar.abuse.ch/download/818a48e399389a23fc73994dc4331314374a7097fe831b4ee617b9315487d804/
+
+File Type :.exe
+ APT: TricBot
+
+Role : Wizard Spider is a Russia-based financially motivated threat group originally known for the creation and deployment of TrickBot since at least 2016.
+Zip Password: infected 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Higaisa
+SHA256 b18aa5a1a02bcd28e242c1d23585d565f88063e6c1b251873e5872c95652679a
+https://bazaar.abuse.ch/download/b18aa5a1a02bcd28e242c1d23585d565f88063e6c1b251873e5872c95652679a/
+Zip Password: infected 
+
+File Type :.bat
+
+APT: certutil
+Role: Archive Collected Data: Archive via Utility, Deobfuscate/Decode Files or Information, Ingress Tool Transfer, Subvert Trust Controls: Install Root Certificate
+
+SHA256 12f1fa49ce2f2fd19db6147e547a35625c260b2fec2ecf67de89c837990c5d94
+https://bazaar.abuse.ch/download/12f1fa49ce2f2fd19db6147e547a35625c260b2fec2ecf67de89c837990c5d94/
+Zip Password: infected 
+
+File Type :.exe
+
+APT: gh0st RAT 
+
+
+SHA256 f04340f93e2f5f7d6d5521572f17c5b80f39984ee6b4b8c0899380e95a825127
+https://bazaar.abuse.ch/download/f04340f93e2f5f7d6d5521572f17c5b80f39984ee6b4b8c0899380e95a825127/
+Zip Password: infected 
+
+File Type :.  tar
+
+APT: PlugX
+
+FIN10
+
+SHA256 93fbf17f966abe2ffcd2680a95a383e35ec85c07a86b53536afc2c4581346c91
+https://bazaar.abuse.ch/download/93fbf17f966abe2ffcd2680a95a383e35ec85c07a86b53536afc2c4581346c91/
+Zip Password: infected 
+
+File Type :.  vbs
+
+APT: Empire
+
+SHA256 5ebc77efec011b34f58c7b421307e002793174f895b16a1acaa65f0a5f9393df
+https://bazaar.abuse.ch/download/5ebc77efec011b34f58c7b421307e002793174f895b16a1acaa65f0a5f9393df/
+Zip Password: infected 
+
+File Type :.  bat
+
+APT: Empire
+
+SHA256 b397621f369d5cb8207530c8af01f8cd63e77e456e85757f155ab9da0adf20ae
+https://bazaar.abuse.ch/download/b397621f369d5cb8207530c8af01f8cd63e77e456e85757f155ab9da0adf20ae/
+Zip Password: infected 
+
+File Type :.  ps1
+
+APT: Empire
+
+CopyKittens
+SHA256 f0103528b96533db9d76df0f760b4d0ffc1a142b0070e3a70e6f9a724d726fbd
+https://bazaar.abuse.ch/download/f0103528b96533db9d76df0f760b4d0ffc1a142b0070e3a70e6f9a724d726fbd/
+Zip Password: infected 
+
+File Type :.  .exe
+
+APT: XdataCrypt
+
+SHA256 3e1aadef9e05b98e31fc7994dd3405a45da77fbb69632e31f7aa95d397201de0
+https://bazaar.abuse.ch/download/3e1aadef9e05b98e31fc7994dd3405a45da77fbb69632e31f7aa95d397201de0/
+Zip Password: infected 
+
+File Type :.  .exe
+
+APT:  CobaltStrike
+
+SHA256 dcf5da82c4785d8cca8f4d4478bebbf4ff7af25e584ee6fe86e8ce65363ff28c
+https://bazaar.abuse.ch/download/dcf5da82c4785d8cca8f4d4478bebbf4ff7af25e584ee6fe86e8ce65363ff28c/Zip Password: infected 
+
+File Type :.  .exe
+
+APT:  Xdatacrypt
+
+
+
+
+
+Group5
+SHA256: f99a35529d49c648c01518eb567398141b2ad7a809f88618c75b6f637cae3926
+Source: https://bazaar.abuse.ch/sample/f99a35529d49c648c01518eb567398141b2ad7a809f88618c75b6f637cae3926/
+APT: Group5
+File Type: .exe
+Zip Password: infected
+Role: Malware sample of remote access trojan used by the group called nanocore
+
+SHA256: c4a1fa419e1fb2cb82a669adbf1e4c1236101a9733d405b762324aa4a4ea8281
+Source: https://bazaar.abuse.ch/sample/c4a1fa419e1fb2cb82a669adbf1e4c1236101a9733d405b762324aa4a4ea8281/
+APT: Group5
+File Type: .exe
+Zip Password: infected
+Role: Malware sample of remote access trojan used by the group called nanocore, capable of keylogging, process injection, file creation and manipulation
+
+SHA256: bdd657a4d1e7c77a3ecb7a1d62ad4feb8d5562a6eb29470837262465cca0a234
+Source: https://bazaar.abuse.ch/sample/bdd657a4d1e7c77a3ecb7a1d62ad4feb8d5562a6eb29470837262465cca0a234/
+APT: Group5
+File Type: .vbs
+Zip Password: infected
+Role: Malware sample of remote access trojan used by the group called nanocore,capable of persistence via autostart keys, dropping and executing additional scripts and executables, obfuscated VBScript execution
+
+SHA256: 6c8576cf231fd3e4c6812399704820c6b9d462e99d696181adf071015b92ea27
+Source: https://bazaar.abuse.ch/sample/6c8576cf231fd3e4c6812399704820c6b9d462e99d696181adf071015b92ea27/
+APT: Group5
+File Type: .exe
+Zip Password: infected
+Role: Malware sample of remote access trojan used by the group called nanocore this particular sample is an older version with which can inject PE files into other processes, hide its download origin, communicate with dynamic DNS C2 servers,
+
+SHA256: c386c046db909d1725018d1c7af0438a7ebfc4055bacc0aef40fd3a4e094372b
+Source: https://bazaar.abuse.ch/sample/c386c046db909d1725018d1c7af0438a7ebfc4055bacc0aef40fd3a4e094372b/
+APT: Group5
+File Type: .zip
+Zip Password: infected
+Role: Malware sample of remote access trojan used by the group called nanocore.
+
+
+
+
+
+
+
+
+
+Fox Kitten
+SHA256: 55b9264bc1f665acd94d922dd13522f48f2c88b02b587e50d5665b72855aa71c
+Source: https://infocon.org/mirrors/vx%20underground%20-%202025%20June/Samples/Families/Pay2Key/
+APT: Fox Kitten
+File Type: unknown (potentially .exe)
+Zip Password: infected
+Role: Sample of pay2key malware used by fox kitten used to target USA and Turkey
+
+SHA256: df86cd16a3008dba00590edae31d1313bd92528aca92c4f4ea7f24000ba62547
+Source: https://infocon.org/mirrors/vx%20underground%20-%202025%20June/Samples/Families/Pay2Key/
+APT: Fox Kitten
+File Type: unknown (potentially .exe)
+Zip Password: infected
+Role: Sample of pay2key malware used by fox kitten used to target isreal
+
+SHA256: 483fe88d70cb09361c27468b97b7f96bd667d8c915c9f004a27d4260367d551b
+Source: https://infocon.org/mirrors/vx%20underground%20-%202025%20June/Samples/Families/Pay2Key/
+APT: Fox Kitten
+File Type: unknown (potentially .exe)
+Zip Password: infected
+Role: Sample of pay2key malware used by fox kitten used to target isreal
+
+SHA256: 5bae961fec67565fb88c8bcd3841b7090566d8fc12ccb70436b5269456e55c00
+Source: https://infocon.org/mirrors/vx%20underground%20-%202025%20June/Samples/Families/Pay2Key/
+APT: Fox Kitten
+File Type: unknown (potentially .exe)
+Zip Password: infected
+Role: Sample of pay2key malware used by fox kitten this particular hash corresponds to a cobalt Portable Executable
+
+SHA256: d2b612729d0c106cb5b0434e3d5de1a5dc9d065d276d51a3fb25a08f39e18467
+Source: https://infocon.org/mirrors/vx%20underground%20-%202025%20June/Samples/Families/Pay2Key/
+APT: Fox Kitten
+File Type: unknown (potentially .exe)
+Zip Password: infected
+Role: Sample of pay2key malware used by fox kitten this particular hash corresponds to a cobalt Portable Executable used to target Canada and isreal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leaf Miner
+SHA256: 115E92B3587B9364848A9E5A4CE48D085029A8B2368A9FD4910449A47B7D6734
+Source: https://github.com/dafthack/MailSniper
+APT: Leaf Miner
+File Type: .ps1
+Zip Password: infected
+Role: Sample of MailSniper used by Leafminer for account discovery
+
+Cleaver
+SHA256: 34574f0c683adda2944d2111f808239fedca8d6908ea8748e19b819683e752b6
+Source: https://bazaar.abuse.ch/sample/34574f0c683adda2944d2111f808239fedca8d6908ea8748e19b819683e752b6/
+APT: Cleaver
+File Type: .elf
+Zip Password: infected
+Role: Malware sample of privesc used for privilege escalation used by the apt group.
+Connecting PrivEsc to Cleaver:
+https://web.archive.org/web/20200302085133/https://www.cylance.com/content/dam/cylance/pages/operation-cleaver/Cylance_Operation_Cleaver_Report.pdf
+
+
+
+
+
+
+
+
+
+Frankstein 
+It's hard to find specific malware from Frankenstein as they used a variety of open source tools for their attack, tools such as powershell empire.
+https://securityaffairs.com/86794/hacking/frankenstein-campaign.html
+SHA256: afc6c2721f8bdeb08b36857434d5106270d48b8e4b9c048b2c62954d15a59743
+Source: https://bazaar.abuse.ch/sample/afc6c2721f8bdeb08b36857434d5106270d48b8e4b9c048b2c62954d15a59743/
+APT: Frankstein
+File Type: .exe
+Zip Password: infected
+Role: Powershell empire portable executable, powershell empire was used by Frankenstein for discovery.
+
+SHA256: b397621f369d5cb8207530c8af01f8cd63e77e456e85757f155ab9da0adf20ae
+Source: https://bazaar.abuse.ch/sample/b397621f369d5cb8207530c8af01f8cd63e77e456e85757f155ab9da0adf20ae/
+APT: Frankstein
+File Type: .ps1
+Zip Password: infected
+Role: Powershell empire script, powershell empire was used by Frankenstein for discovery.
+
+SHA256: b397621f369d5cb8207530c8af01f8cd63e77e456e85757f155ab9da0adf20ae
+Source: https://bazaar.abuse.ch/sample/b397621f369d5cb8207530c8af01f8cd63e77e456e85757f155ab9da0adf20ae/
+APT: Frankstein
+File Type: .ps1
+Zip Password: infected
+Role: Powershell empire script, powershell empire was used by Frankenstein for discovery.
+Dark Hotel
+SHA256: 90ed8596c235d8dd81aa5b9057b7dbf13329ab3236fc2e966fbd5e7528296174
+Source: https://github.com/0xBADBAC0N/malware/blob/master/Trojan.Tapaoux/Trojan.Tapaoux.zip
+APT: Dark Hotel
+File Type: .zip
+Zip Password: infected
+Role: Sample of Tapaoux trojan which has been linked to dark hotel
+
+Souce that links Tapaoux to Dark Hotel:
+https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08070903/darkhotel_kl_07.11.pdf
+
+
