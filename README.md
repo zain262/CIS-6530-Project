@@ -1,4 +1,5 @@
 Hafnium:
+
 SHA256: 33878eed4a50635735e6e368a50f69c13b22b6af58ae50a82c1af5c5f129fb7f
 Source: https://bazaar.abuse.ch/sample/33878eed4a50635735e6e368a50f69c13b22b6af58ae50a82c1af5c5f129fb7f/
 File Type: .aspx
